@@ -8,4 +8,4 @@ tener en cuenta que se debe poner la carpeta comprimida en el directorio del ard
 El nombre del .ino debe ser el mismo nombre de la carpeta para que agregue el arduino ide todos los includes necesarios que estan dentro de la misma carpeta para que compile.
 ![image](https://github.com/AndresBellero74/ESP32_devkit_ov7670_wo_fifo/assets/73205398/8a5087a4-6432-448b-b73f-8d4ca820630b)
 como se ven todas las solapas.
-video en yt:
+video en yt: https://youtu.be/VAaboWFiGKQ
